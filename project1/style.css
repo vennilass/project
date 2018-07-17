@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 Apr, 2018, 3:43:55 PM
+    Author     : Shanthi Rajendran
+*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+      background-image: url("2.jpg");
+    background-repeat: no-repeat;
+            background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color:white;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+table{
+  
+    width:100%;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
